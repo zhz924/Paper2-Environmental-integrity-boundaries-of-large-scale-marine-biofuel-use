@@ -5,7 +5,7 @@
 
 This is the code-publication package accompanying Paper 2 of the series (the "Environmental Eligibility" paper), prepared for **Transportation Research Part D (TR-D)**. It contains the scripts and figures needed to reproduce every numerical result reported in the paper, including the audit of Tables 2/7/8/9/10, Figure 2, the Section 4.8 sensitivity analysis, and the three-tier eligibility funnel (Table 11, Figures 3–5).
 
-> **Zenodo DOI (placeholder):** `10.5281/zenodo.XXXXXXXX` — to be assigned upon deposit.
+> **Zenodo DOI (placeholder):** 10.5281/zenodo.22006878.
 
 ---
 
